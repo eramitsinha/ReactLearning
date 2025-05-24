@@ -75,7 +75,7 @@ const PostForm = () => {
                 />      
             </div>
             
-            <button type="su</div>bmit" className='form-control'>Save Post</button>
+            <button type="su</div>bmit" className='form-control'>Create Post</button>
         </form>
         {message && <p>{message}</p>}
         </div>
